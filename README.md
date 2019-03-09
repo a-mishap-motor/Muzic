@@ -1,2 +1,2 @@
-# Muzic
-An online music streaming platform
+# Research Publications Repository
+An online platform to store and retrieve research publications
